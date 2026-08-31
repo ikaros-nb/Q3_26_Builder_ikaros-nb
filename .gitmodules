@@ -1,0 +1,9 @@
+[submodule "pre-req-vault"]
+	path = pre-req-vault
+	url = https://github.com/ikaros-nb/Q3_26_Builder_pre-req-vault
+[submodule "guessing-game"]
+	path = guessing-game
+	url = https://github.com/ikaros-nb/Q3_26_Builder_guessing-game
+[submodule "spl-nft-q326"]
+	path = spl-nft-q326
+	url = https://github.com/ikaros-nb/Q3_26_Builder_baguette-coin
