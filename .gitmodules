@@ -6,4 +6,4 @@
 	url = https://github.com/ikaros-nb/Q3_26_Builder_guessing-game
 [submodule "spl-nft-q326"]
 	path = spl-nft-q326
-	url = https://github.com/ikaros-nb/Q3_26_Builder_baguette-coin
+	url = https://github.com/ikaros-nb/Q3_26_Builder_baguette-spl-nft
