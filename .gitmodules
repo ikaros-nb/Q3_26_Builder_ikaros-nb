@@ -7,3 +7,9 @@
 [submodule "spl-nft-q326"]
 	path = spl-nft-q326
 	url = https://github.com/ikaros-nb/Q3_26_Builder_baguette-spl-nft
+[submodule "q3_26_vault"]
+	path = q3_26_vault
+	url = https://github.com/ikaros-nb/Q3_26_Builder_vault
+[submodule "q3_26_escrow"]
+	path = q3_26_escrow
+	url = https://github.com/ikaros-nb/Q3_26_Builder_escrow
