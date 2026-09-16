@@ -13,3 +13,6 @@
 [submodule "q3_26_escrow"]
 	path = q3_26_escrow
 	url = https://github.com/ikaros-nb/Q3_26_Builder_escrow
+[submodule "q3_26_amm"]
+	path = q3_26_amm
+	url = https://github.com/ikaros-nb/Q3_26_Builder_AMM
