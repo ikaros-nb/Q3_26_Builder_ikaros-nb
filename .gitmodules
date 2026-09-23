@@ -16,3 +16,6 @@
 [submodule "q3_26_amm"]
 	path = q3_26_amm
 	url = https://github.com/ikaros-nb/Q3_26_Builder_AMM
+[submodule "q3_26_t22ct"]
+	path = q3_26_t22ct
+	url = https://github.com/ikaros-nb/Q3_26_Builder_T22-CT
